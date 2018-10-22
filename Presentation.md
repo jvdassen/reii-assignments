@@ -35,8 +35,36 @@ color:
 
 # RESCUE
 ## Background
-## How to use it
+- Inspired by scientific approaches from creativity theory
+- Concurrent engineering process with different modelling and analysis techniques.
+- Focus on system goal and use-case modelling.
+## How to use it / How they work
+- Based on creativity workshops to support three different models from creativity theory
+1. Designed support divergence and convergence on ideas
+2. Each workshop encourages three different types of creativity: exploratory, combinatorial ans transformational 
+3. Support four different creative processes: Preparation, Incubation, Illumination and Verification.
 ## Experiences with it
+- The model was tested using six iterations of workshop series. 
+- The first one was considered successfull and created 200 ideas and requirements.
+- The second and subsequent workshops were all successfull. This led to refinements in the structure, which were then tested in a workshop with MSP (??). 
+- Existing use-cases provided the basis for the workshop.
+- Different activites took place over the days of the workshop.
+  - Brain storming, Contraint identification and removal
+  - Analogical mappings to other domains were achieved by listening to experts from other domains.
+  - Expert presentation on visualization
+
+ - Findings:
+  - First iteration: 
+    - 200 ideas were invented by 20 people. 50 of them were found to be useful.
+    - Important learnings and improvements were found to the structure, such as running the workshops early in the project.
+    - The existing creativity theories are not sufficient for requirements elicitation. Dedicated techniques might need to be invented.
+  - Last iteration: 
+    - Brainstorming generated more ideas than analogical reasoning.
+    - Combining ideas was most effective when done during storyboard development
+    - Removing constraints provided more ideas than presenting knowledge from the solution-space. 
+    - Reassured to run workshops after a first scope was defined
+    - They did not find issues with runninng one-day workshops instead of two
+  
 ## Constraints etc
 # Star Search
 ## ...
