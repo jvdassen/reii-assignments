@@ -3,8 +3,6 @@ title:
 - Creativity and Innovation in Requirements Engineering
 author:
 - Luc Boillat, Jan von der Assen
-theme:
-- Frankfurt
 color:
 - rose
 ---
@@ -18,7 +16,6 @@ color:
 - i\*, KAOS and RUP
 - Innovation management
 
-
 # Background
 - Creative process
 - Future
@@ -31,7 +28,7 @@ color:
 - Requirements are an abstraction of ideas.
 
 # Background
-- To conclude: __Creative requirements engineering techniques and idea gathering are important for the innovation of a product, project or company. The biggest issues are lack of available methods, awareness and risk-aversity. We will now introduce two techniques that aim at eliciting new, innovative requirements.__
+- To conclude: __Creative requirements engineering techniques and idea gathering are important for the innovation of a product, project or company. The biggest issues are lack of available methods, awareness and risk-aversity.__
 
 # RESCUE
 ## Background
