@@ -29,7 +29,7 @@ color:
 # Background 
 - Restriction of design to the design phase.
 - Knowledge of individuals.
-- Requirements are an abstraction of these ideas.
+- Requirements are an abstraction of ideas.
 
 # Background
 - To conclude: __Creative requirements engineering techniques and idea gathering are important for the innovation of a product, project or company. The biggest issues are lack of available methods, awareness and risk-aversity. We will now introduce two techniques that aim at eliciting new, innovative requirements.__
