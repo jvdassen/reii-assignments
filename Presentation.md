@@ -8,7 +8,6 @@ theme:
 color:
 - rose
 ---
-# Structure
 # Introduction
 - What is creativity?
 - How does it fit into requirements elicitation?
