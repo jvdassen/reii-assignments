@@ -26,7 +26,7 @@ color:
 - Innovation in the long term
 - "Invention is part of the design process"
 
-# Background 
+# Background
 - Knowledge of individuals.
 - Requirements are an abstraction of these ideas.
 - Restriction of design to the design phase.
@@ -146,4 +146,27 @@ color:
 - 5% of all innovation candidates make it to market
 
 
-# Comparison/Conclusion of the two
+# Comparison and Conclusion of the two Processes
+
+# Comparison of RESCUE and Star Search
+## When
+- RESCUE is performed after the project's scope and goals have been defined
+- The ideas are supposed to occur during the workshops
+
+- Star Search can be applied to already existing products and processes, as well as products that are still in their planning phase (long-term focus)
+- Ideas occur during day-to-day work and are presented when a call for innovation was made
+
+# Comparison of RESCUE and Star Search
+## How
+- RESCUE is based on workshops where the initial goal is to find as much ideas possible due to the techniques used that encourage open mindedness
+
+- Star Search is centered around interaction and feedback between the employee(s) that submit ideas and the employees that screen ideas (AG, CPG, CDG)
+- This enables a filtering of ideas during the process
+
+# Comparison of RESCUE and Star Search
+## Inputs and Outputs
+- RESCUE  starts with a rough use case
+- Produces an operation specification sheet for the project
+
+- Star Search starts with a call for innovation in a certain field
+- Successful ideas get transformed into a business case for future requirements
