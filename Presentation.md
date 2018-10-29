@@ -73,18 +73,18 @@ color:
 
 # Star Search
 ## Background
-- Focus on short-term financial security makes is harder to see beyond today's needs and distinguish between ongoing and soon-to-be initiated projects
+- Today, short-term income often seems more important than long-term success
 - This leads to incoming requirements concentrate around current projects
 - However, it is necessary to look forward (especially in software companies) to achieve long-term success
 
 # Star Search
 ## Idea
-- Companies use their employees' capability for innovation because the development organization must have a deeper domain-understanding than a customer that usually uses a company's products in a single domain. (Robot Example)
+- Companies use their employees' capability for innovation because the development organization must have a deeper domain-understanding than a customer that usually uses a company's products in a single domain.
 - Making innovation a part of day-to-day business
+- More effective than traditional "Idea Generation"
 
 # Star Search
 ## Requirements for such a System
-- Proper decision making processes and justification materials that help balancing long term innovation with indispensable short term development efforts
 - Focus on long-term Requirements
 - Inputs from entire organization (devs, sales, etc.)
 - Cost effective
@@ -148,14 +148,14 @@ color:
 ## When
 - RESCUE is performed after the project's scope and goals have been defined
 - The ideas are supposed to occur during the workshops
-
+-
 - Star Search can be applied to already existing products and processes, as well as products that are still in their planning phase (long-term focus)
 - Ideas occur during day-to-day work and are presented when a call for innovation was made
 
 # Comparison of RESCUE and Star Search
 ## How
 - RESCUE is based on workshops where the initial goal is to find as much ideas possible due to the techniques used that encourage open mindedness
-
+-
 - Star Search is centered around interaction and feedback between the employee(s) that submit ideas and the employees that screen ideas (AG, CPG, CDG)
 - This enables a filtering of ideas during the process
 
@@ -163,6 +163,8 @@ color:
 ## Inputs and Outputs
 - RESCUE  starts with a rough use case
 - Produces an operation specification sheet for the project
-
+-
 - Star Search starts with a call for innovation in a certain field
 - Successful ideas get transformed into a business case for future requirements
+
+# Questions
